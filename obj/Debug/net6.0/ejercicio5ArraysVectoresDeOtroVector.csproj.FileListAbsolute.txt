@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\bin\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\bin\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\bin\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\bin\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\bin\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\refint\ejercicio5ArraysVectoresDeOtroVector.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ejercicio5ArraysVectoresDeOtroVector.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio5ArraysVectoresDeOtroVector\obj\Debug\net6.0\ref\ejercicio5ArraysVectoresDeOtroVector.dll
